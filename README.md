@@ -1,0 +1,2 @@
+# rustex-client-collection
+пасты
